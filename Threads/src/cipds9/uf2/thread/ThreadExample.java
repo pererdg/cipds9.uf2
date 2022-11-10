@@ -1,4 +1,4 @@
-package cipds9.uf2;
+package cipds9.uf2.thread;
 
 public class ThreadExample extends Thread {
 
